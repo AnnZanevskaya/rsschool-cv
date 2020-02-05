@@ -18,3 +18,8 @@ Good knowledge in SDLC and processes.*
 
 ## Code examples
 Site created by me: http://bengals-n24.com/
+
+## Achievements
+* ADAM Platform certified developer </br>
+* Winner of EPAM DEP Hackathon “From Slides To Real Life” </br>
+* Participant of EPAM DEP ‘Make it Digital!’ Hackathon  </br>
