@@ -1,5 +1,5 @@
 # Hanna Zaneuskaya
-ann.zanevskaya7@gmail.com | www.linkedin.com/in/hanna-zaneuskaya-355948167
+[Email](mailto:ann.zanevskaya7@gmail.com) | [LinkedIn](www.linkedin.com/in/hanna-zaneuskaya-355948167)  
 
 *5+ years in IT, 4+ year experience in development for Digital Marketing area <br/>
 Solution and subsystems design, implementation experience of different types of applications based on .NET technology stack. <br/>
@@ -17,12 +17,12 @@ Good knowledge in SDLC and processes.*
 **Testing:** NUnit, Selenium <br/>
 
 ## Code examples
-Site created by me: http://bengals-n24.com/
+Site created by me: [http://bengals-n24.com/](http://bengals-n24.com/) 
 
 ## Achievements
-* ADAM Platform certified developer </br>
-* Winner of EPAM DEP Hackathon “From Slides To Real Life” </br>
-* Participant of EPAM DEP ‘Make it Digital!’ Hackathon  </br>
+* ADAM Platform certified developer 
+* Winner of EPAM DEP Hackathon “From Slides To Real Life” 
+* Participant of EPAM DEP ‘Make it Digital!’ Hackathon 
 
 ## Education
 Belarusian State University, Minsk, Belarus — Bachelor’s degree in Mathematics, 2016
