@@ -23,3 +23,6 @@ Site created by me: http://bengals-n24.com/
 * ADAM Platform certified developer </br>
 * Winner of EPAM DEP Hackathon “From Slides To Real Life” </br>
 * Participant of EPAM DEP ‘Make it Digital!’ Hackathon  </br>
+
+## Education
+Belarusian State University, Minsk, Belarus — Bachelor’s degree in Mathematics, 2016
